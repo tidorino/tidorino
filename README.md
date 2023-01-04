@@ -3,7 +3,7 @@
 </div>
 
 
-### Hi there! I am Teodora Trendafilova! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### <img src="https://user-images.githubusercontent.com/97727834/210551318-8670bfaf-e12d-4438-b403-c6e8afe5ef54.png" width="80"/> Hi, I am Teodora Trendafilova! 
 
 <!--
 **tidorino/tidorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
- ### <img src="https://user-images.githubusercontent.com/97727834/210551318-8670bfaf-e12d-4438-b403-c6e8afe5ef54.png" width="80"/>  About Me 
+ ###   GitHub Stats 
  
  
  
