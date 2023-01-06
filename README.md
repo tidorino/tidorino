@@ -1,6 +1,6 @@
-<div id="header" align="right">
+<!-- <div id="header" align="right">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
+</div> -->
 
 
 ### <img src="https://user-images.githubusercontent.com/97727834/210551318-8670bfaf-e12d-4438-b403-c6e8afe5ef54.png" width="80"/> Hi, I am Teodora Trendafilova! 
