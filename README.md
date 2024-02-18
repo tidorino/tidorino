@@ -36,6 +36,6 @@ Here are some ideas to get you started:
  
  
  -->
-![Teodora's github stats](https://github-readme-streak-stats.herokuapp.com/?user=tidorino)
+<!-- ![Teodora's github stats](https://github-readme-streak-stats.herokuapp.com/?user=tidorino) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tidorino)
